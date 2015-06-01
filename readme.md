@@ -1,1 +1,0 @@
-by Bryan Spahr and Jeremy Iden

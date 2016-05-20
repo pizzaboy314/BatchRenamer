@@ -29,8 +29,9 @@ public class Worker {
 		
 		replace = (String) JOptionPane.showInputDialog(null, "Enter your replacement.","Replace", JOptionPane.PLAIN_MESSAGE, null, null, null);
 		
-		if (replace == null || replace.equals("")) {
-			System.exit(0);
+		if (replace == null) {
+			replace = "";
+			// System.exit(0);
 		}
 		
 		doRename(headDir);

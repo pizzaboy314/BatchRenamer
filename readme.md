@@ -1,1 +1,2 @@
-by Bryan Spahr and Jeremy Iden
+initial work: Bryan Spahr and Jeremy Iden
+continuation: Bryan Spahr
